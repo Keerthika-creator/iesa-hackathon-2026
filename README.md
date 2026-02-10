@@ -140,6 +140,7 @@ python src/train.py
 
 # Export to ONNX
 python src/export_onnx.py
+
 📦 Repository Structure
 src/                # Python scripts: model, training, inference, ONNX export
 notebooks/          # Colab notebooks
@@ -226,9 +227,3 @@ MIT License — see LICENSE
 Built with ❤️ by Team Zentra for IESA DeepTech Hackathon 2026
 
 ---
-
-This is **one single README file**, fully professional, includes Colab link, all sections, badges, placeholders for images, and ready for the finals.  
-
-If you want, I can now **generate the missing two images** (Die Confusion Matrix + Training Curve) so your `results/` folder is complete and ready to push.  
-
-Do you want me to generate those now?
